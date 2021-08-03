@@ -1,5 +1,6 @@
 # freeCodeCamp-JS-projects
 
+
 1. CAESAR CIPHER 
 
 One of the simplest and most widely known ciphers is a Caesar cipher, also known as a shift cipher. In a shift cipher the meanings of the letters are shifted by some set amount.
@@ -27,6 +28,7 @@ Return {status: "CLOSED", change: [...]} with cash-in-drawer as the value for th
 Otherwise, return {status: "OPEN", change: [...]}, with the change due in coins and bills, sorted in highest to lowest order, as the value of the change key.
 
 
+
 3.PALINDROME CHECKER
 
 Return true if the given string is a palindrome. Otherwise, return false.
@@ -40,9 +42,11 @@ We'll pass strings with varying formats, such as racecar, RaceCar, and race CAR 
 We'll also pass strings with special symbols, such as 2A3*3a2, 2A3 3a2, and 2_A3*3#A2.
 
 
+
 4.ROMAN NUMERAL CONVERTER
 
 Convert the given number into a roman numeral.
+
 
 
 5.TELEPHONE NUMBER VALIDATOR
